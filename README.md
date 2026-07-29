@@ -20,3 +20,8 @@ A simple Python-based project that helps users track their stock investments and
   - File Handling
 
 ## 📂 Project Structure
+
+stock-portfolio-tracker/
+│── stock_tracker.py     # Main Python script
+│── portfolio.txt        # Saved portfolio (generated file)
+│── README.md            # Project documentation
